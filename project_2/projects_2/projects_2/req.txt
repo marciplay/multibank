@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+httpx
+requests
+requests-oauthlib
+sqlalchemy
+sqlmodel
+python-jose[cryptography]
+passlib[bcrypt]
+cryptography
+apscheduler
+python-dotenv
+pydantic
